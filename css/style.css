@@ -53,6 +53,15 @@ p {
 .logo .logo-text {
     color: #2E2F42;
 }
+.home {
+    color:#434455;
+}
+.home:hover{
+    color: #404bbf;
+}
+.home:focus {
+    color: #404bbf;
+}
 ul {
     list-style: none;
     font-size: 16px;
@@ -70,12 +79,7 @@ a {
        
 }
 
-.contacts:hover {
-color: green;
-}
-.contacts:focus {
-    color: red;
-}
+
 .adrress {
     font-weight: 400;
         font-size: 16px;
