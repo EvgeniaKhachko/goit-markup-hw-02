@@ -62,16 +62,19 @@ a {
     text-decoration: none;
 }
 .nav-link {
-    color: #2E2F42;
-    display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        flex-direction: row;
-        gap: 40px;
+    color: #434455;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+       
 }
-.nav-link:hover,
-.nav-link:focus{
-color:#404BBF;
+.nav-link:hover{
+    color: #404bbf;
+}
+.nav-link:focus
+{
+color:#404bbf;
 }
 
 .adrress {
@@ -80,7 +83,7 @@ color:#404BBF;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-
+        font-style: normal
         float: right;
 }
 .adrress.link:hover,
