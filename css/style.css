@@ -54,7 +54,7 @@ p {
     color: #2E2F42;
 }
 .home {
-    color:#434455;
+    color:#2e2f42;
 }
 .home:hover{
     color: #404bbf;
@@ -89,9 +89,12 @@ a {
         font-style: normal;
         float: right;
 }
-.adrress.link:hover,
-.adrress.link:focus {
-  color:#404BBF;    
+.adress-link {
+    color:#2e2f42;
+}
+.adrress-link:hover,
+.adrress-link:focus {
+  color:#404bbf;    
 }
 
 /*------main-section-------*/
