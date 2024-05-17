@@ -69,14 +69,13 @@ a {
         letter-spacing: 0.02em;
        
 }
-.nav-link a:hover{
-    /*color: #404bbf;*/
-}
-.nav-link a:focus
-{
-/*color:#404bbf;*/
-}
 
+.contacts:hover {
+color: green;
+}
+.contacts:focus {
+    color: red;
+}
 .adrress {
     font-weight: 400;
         font-size: 16px;
@@ -99,6 +98,7 @@ a {
 
 .section-title {
     background-color: #2E2F42;
+
    
     /*height: 600px;*/
 }
@@ -118,7 +118,10 @@ font-weight: 500;
     background-color:#4D5AE5;
     color:#FFFFFF;
     cursor: pointer;
-}
+    font-family:"Roboto",sans-serif;
+    
+
+}   
 /*-----section-1------*/
 .about {
     
