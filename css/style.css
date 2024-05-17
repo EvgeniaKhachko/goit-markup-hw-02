@@ -62,7 +62,7 @@ a {
     text-decoration: none;
 }
 .nav-link a {
-    color: #2e2f42;
+    color: #434455;
     font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -70,11 +70,11 @@ a {
        
 }
 .nav-link a:hover{
-    color: #404bbf;
+    /*color: #404bbf;*/
 }
 .nav-link a:focus
 {
-color:#404bbf;
+/*color:#404bbf;*/
 }
 
 .adrress {
