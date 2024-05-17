@@ -79,7 +79,7 @@ a {
 }
 
 
-.adrress {
+.address {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -89,11 +89,11 @@ a {
         font-style: normal;
         float: right;
 }
-.adress-link {
+.address-link {
     color:#434455;
 }
-.adrress-link:hover,
-.adrress-link:focus {
+.address-link:hover,
+.address-link:focus {
   color:#404bbf;    
 }
 
