@@ -89,6 +89,10 @@ color:#404BBF;
 }
 
 /*------main-section-------*/
+ .title {
+    width: 496px;
+    margin: auto;
+ }
 
 .section-title {
     background-color: #2E2F42;
