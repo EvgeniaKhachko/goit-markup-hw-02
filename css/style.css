@@ -25,11 +25,7 @@ p {
         letter-spacing: 0.02em;
         color: #434455;
 }
-/*.section-content {
-    width: 1128px;
-    margin: 0 auto;
-    padding: 32px 0;
-} */
+
 /*------Header-----*/
 
 .header li, .header ul, .header nav{
@@ -99,15 +95,14 @@ a {
 
 /*------main-section-------*/
  .title {
-    /*width: 496px;
-    margin: auto;*/
+   
  }
 
 .section-title {
     background-color: #2E2F42;
 
    
-    /*height: 600px;*/
+  
 }
 .section-title .title {
     font-size: 56px;
@@ -144,21 +139,29 @@ font-weight: 500;
 /*------section-2-----*/
 .team {
     
-    /*height: 732px;*/
-    background-color: #f4f4fd;
-    
+    background-color: #f4f4fd;   
 }
 
+.our-team {
+    text-transform: capitalize;
+}
+.mark {
+    background-color: #FFFFFF
+}
+.goal {
+    font-size: 16px;
+}
 .team li p, .team li h3{
     text-align: center;
     
 }
 /*-------section-3-----*/
 
+.portfolio-our {
+    text-transform: capitalize;
+}
 .portfolio li {
     
-    
-      /*  height: 3300px;*/
         background: #fff;
 }
 .portfolio li {
