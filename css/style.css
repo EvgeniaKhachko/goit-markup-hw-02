@@ -34,7 +34,7 @@ p {
 
 .header li, .header ul, .header nav{
 
-    display: inline-block;
+
 
 
 }
@@ -46,7 +46,7 @@ p {
     text-transform: uppercase;
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
-    display: inline-block;
+
 }
 
 
@@ -135,9 +135,7 @@ font-weight: 500;
         background: #fff;                                                                                                                                                                                                                                                                                                                                                           
 }
 .about li {
-  /*  width: 264px;
-        height: 104px;*/
-        display: inline-block;
+
 }
    
 /*------section-2-----*/
@@ -147,9 +145,7 @@ font-weight: 500;
     background-color: #f4f4fd;
     
 }
-.team li {
-    display: inline-block;
-} 
+
 .team li p, .team li h3{
     text-align: center;
     
@@ -163,9 +159,7 @@ font-weight: 500;
         background: #fff;
 }
 .portfolio li {
-    /*width: 360px;
-        height: 420px;*/
-        display: inline-block;
+
 }
 .footer {
     
