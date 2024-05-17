@@ -83,7 +83,6 @@ a {
         color:#434455;
 
         font-style: normal;
-        float: right;
 }
 .address-link {
     color:#434455;
@@ -191,8 +190,4 @@ color: #f4f4fd;
 }
 .footer .logo-text {
     color: #f4f4fd;
-}
-.footer-text {
-   /* width: 264px;
-*/        
 }
