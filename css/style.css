@@ -50,7 +50,7 @@ p {
 }
 
 
-.logo .logotext {
+.logo .logo-text {
     color: #2E2F42;
 }
 ul {
@@ -163,7 +163,7 @@ font-weight: 500;
 .footer p {
 color: #f4f4fd;
 }
-.footer .logotext {
+.footer .logo-text {
     color: #f4f4fd;
 }
 .footer-text {
