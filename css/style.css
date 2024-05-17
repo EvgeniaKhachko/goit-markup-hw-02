@@ -93,14 +93,14 @@ color:#404bbf;
 
 /*------main-section-------*/
  .title {
-    width: 496px;
-    margin: auto;
+    /*width: 496px;
+    margin: auto;*/
  }
 
 .section-title {
     background-color: #2E2F42;
    
-    height: 600px;
+    /*height: 600px;*/
 }
 .section-title .title {
     font-size: 56px;
@@ -125,15 +125,15 @@ font-weight: 500;
         background: #fff;                                                                                                                                                                                                                                                                                                                                                           
 }
 .about li {
-    width: 264px;
-        height: 104px;
+  /*  width: 264px;
+        height: 104px;*/
         display: inline-block;
 }
    
 /*------section-2-----*/
 .team {
     
-    height: 732px;
+    /*height: 732px;*/
     background-color: #f4f4fd;
     
 }
@@ -149,17 +149,17 @@ font-weight: 500;
 .portfolio li {
     
     
-        height: 3300px;
+      /*  height: 3300px;*/
         background: #fff;
 }
 .portfolio li {
-    width: 360px;
-        height: 420px;
+    /*width: 360px;
+        height: 420px;*/
         display: inline-block;
 }
 .footer {
     
-        height: 312px;
+  /*      height: 312px;*/
         background-color: #2e2f42;
       
 }
@@ -170,6 +170,6 @@ color: #f4f4fd;
     color: #f4f4fd;
 }
 .footer-text {
-    width: 264px;
-        
+   /* width: 264px;
+*/        
 }
