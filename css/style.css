@@ -61,7 +61,7 @@ ul {
 a {
     text-decoration: none;
 }
-.nav-link {
+.nav-link a {
     color: #2e2f42;
     font-weight: 500;
         font-size: 16px;
@@ -69,10 +69,10 @@ a {
         letter-spacing: 0.02em;
        
 }
-.nav-link:hover{
+.nav-link a:hover{
     color: #404bbf;
 }
-.nav-link:focus
+.nav-link a:focus
 {
 color:#404bbf;
 }
