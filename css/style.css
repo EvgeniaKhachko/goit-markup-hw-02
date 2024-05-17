@@ -1,0 +1,171 @@
+body {
+    font-family: "Roboto",sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+h2 {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+h3 {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+p {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+.section-content {
+    width: 1128px;
+    margin: 0 auto;
+    padding: 32px 0;
+}
+/*------Header-----*/
+.header {
+    
+        
+}
+.header li, .header ul, .header nav{
+
+    display: inline-block;
+
+
+}
+.logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    display: inline-block;
+}
+
+
+.logo .logotext {
+    color: #2E2F42;
+}
+ul {
+    list-style: none;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+}
+.nav-link {
+    color: #2E2F42;
+    display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: row;
+        gap: 40px;
+}
+.nav-link:hover,
+.nav-link:focus{
+color:#404BBF;
+}
+
+.adrress {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+
+        float: right;
+}
+.adrress.link:hover,
+.adrress.link:focus{
+  color: #404BBF;  
+}
+
+/*------main-section-------*/
+
+.section-title {
+    background-color: #2E2F42;
+   
+    height: 600px;
+}
+.section-title .title {
+    font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #FFFFFF;
+}
+.button {
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color:#4D5AE5;
+    color:#FFFFFF;
+    cursor: pointer;
+}
+/*-----section-1------*/
+.about {
+    
+        background: #fff;                                                                                                                                                                                                                                                                                                                                                           
+}
+.about li {
+    width: 264px;
+        height: 104px;
+        display: inline-block;
+}
+   
+/*------section-2-----*/
+.team {
+    
+    height: 732px;
+    background-color: #f4f4fd;
+    
+}
+.team li {
+    display: inline-block;
+} 
+.team li p, .team li h3{
+    text-align: center;
+    
+}
+/*-------section-3-----*/
+
+.portfolio li {
+    
+    
+        height: 3300px;
+        background: #fff;
+}
+.portfolio li {
+    width: 360px;
+        height: 420px;
+        display: inline-block;
+}
+.footer {
+    
+        height: 312px;
+        background-color: #2e2f42;
+      
+}
+.footer p {
+color: #f4f4fd;
+}
+.footer .logotext {
+    color: #f4f4fd;
+}
+.footer-text {
+    width: 264px;
+        
+}
